@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on an indie 2D platformer game in Unity.<br>I can Code in Python, C# and have a good understanding in Bash and Git Bash.
+I am currently working on an indie 2D platformer game in Unity.<br>I can Code in Python, C# and have a good understanding in Bash and Git.
 
 
 # 💻 Tech Stack:
