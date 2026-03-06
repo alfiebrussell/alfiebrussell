@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm: Alfie</h1>
+<h1 align="center">Hi I'm Alfie</h1>
 <h3 align="center">I can Code in Python, C# and have a good understanding in Bash and Git. I am interested in hardware and networking!</h3>
 
 - 🌱 I’m currently learning **C# and would like to get into frontend development and understand database structures.**
