@@ -27,7 +27,6 @@
 
 <h2 align="center">_________________________________</h2> </a> </p>
 
-<!--START_SECTION:activity-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=CD968F&background=04180000&width=435&lines=GitHub+Stats+%F0%9F%93%8A+)](https://git.io/typing-svg)<br/>
 
@@ -36,7 +35,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiebrussell&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=alfiebrussell&show_icons=true&theme=transparent)
-<!--END_SECTION:activity-->
+
 <h2 align="center">_________________________________</h2>
 
 
