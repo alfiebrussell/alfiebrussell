@@ -27,6 +27,8 @@
 
 <h2 align="center">_________________________________</h2> </a> </p>
 
+<!--START_SECTION:activity-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=CD968F&background=04180000&width=435&lines=GitHub+Stats+%F0%9F%93%8A+)](https://git.io/typing-svg)<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alfiebrussell&theme=earth&border_radius=5&date_format=j%2Fn%5B%2FY%5D&background=45%2C1B2E1B%2C483532&ring=1E1615&border=1E1615&stroke=1E1615&fire=EB7430&currStreakNum=EB7430&sideNums=EB7430&currStreakLabel=EB7430&sideLabels=EB7430&dates=E5A8A0&excludeDaysLabel=E5A8A0&hide_longest_streak=true)](https://git.io/streak-stats)<br/>
@@ -34,6 +36,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiebrussell&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=alfiebrussell&show_icons=true&theme=transparent)
+<!--END_SECTION:activity-->
 <h2 align="center">_________________________________</h2>
 
 
